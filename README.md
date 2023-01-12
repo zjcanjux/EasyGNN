@@ -6,4 +6,4 @@
 
 
 ## reference
-https://blender.cs.illinois.edu/paper/crossdocdisinfo2022.pdf
+https://blender.cs.illinois.edu/paper/crossdocdisinfo2022.pdf 给出了一种考虑边类型的 gat
