@@ -11,6 +11,6 @@ https://github.com/yueqing-sun/jointlk 结合gnn 的 commonsense question answer
 https://github.com/Jiuzhouh/Graph-Masking-Pre-training 
 
 https://github.com/XiaojuanTang/RulE    RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding   
-https://github.com/DeepGraphLearning/GNN-QE    GNN-QE: Graph Neural Network Query Executor
+https://github.com/DeepGraphLearning/GNN-QE    GNN-QE: Graph Neural Network Query Executor   
 ReaRev: Adaptive Reasoning for Question Answering over Knowledge
 Graphs
