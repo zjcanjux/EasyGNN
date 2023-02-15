@@ -15,4 +15,4 @@ https://github.com/DeepGraphLearning/GNN-QE    GNN-QE: Graph Neural Network Quer
 ReaRev: Adaptive Reasoning for Question Answering over Knowledge
 Graphs   
 
-JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering   
+https://github.com/yueqing-sun/jointlk JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering   
