@@ -12,7 +12,7 @@ https://github.com/Jiuzhouh/Graph-Masking-Pre-training
 
 https://github.com/XiaojuanTang/RulE    RulE: Neural-Symbolic Knowledge Graph Reasoning with Rule Embedding   
 https://github.com/DeepGraphLearning/GNN-QE    GNN-QE: Graph Neural Network Query Executor   
-ReaRev: Adaptive Reasoning for Question Answering over Knowledge
+https://github.com/cmavro/ReaRev_KGQA ReaRev: Adaptive Reasoning for Question Answering over Knowledge
 Graphs   
 
 https://github.com/yueqing-sun/jointlk JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering   
