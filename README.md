@@ -18,4 +18,7 @@ Graphs
 https://github.com/yueqing-sun/jointlk JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering   
 https://github.com/michiyasunaga/qagnn  QA-GNN: Question Answering using Language Models and Knowledge Graphs
 
-https://github.com/snap-stanford/GreaseLM GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING
+https://github.com/snap-stanford/GreaseLM GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING   
+https://github.com/mlvlab/QAT   Relation-aware Language-Graph Transformer for Question Answering
+
+
