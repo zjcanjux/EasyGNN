@@ -16,3 +16,4 @@ https://github.com/cmavro/ReaRev_KGQA ReaRev: Adaptive Reasoning for Question An
 Graphs   
 
 https://github.com/yueqing-sun/jointlk JointLK: Joint Reasoning with Language Models and Knowledge Graphs for Commonsense Question Answering   
+https://github.com/michiyasunaga/qagnn  QA-GNN: Question Answering using Language Models and Knowledge Graphs
